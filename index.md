@@ -31,4 +31,4 @@ Fundamental knowledge on
   ```
 - [ ] boost SE skils by repetition
 - [ ] form a great team(1/4)
-- [ ] (optional) Make my own SE outcome later
+- [ ] (optional) Make my own project later
