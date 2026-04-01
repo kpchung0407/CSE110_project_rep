@@ -1,2 +1,0 @@
-name: Kevin Chung
-pid: A19114597
