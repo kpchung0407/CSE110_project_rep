@@ -1,2 +1,1 @@
-# CSE110_project_rep
-starting lab for CSE 110
+My favorite programming language is C++!
